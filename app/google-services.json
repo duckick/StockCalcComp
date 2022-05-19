@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084557928478",
+    "project_id": "stockcalc-feddd",
+    "storage_bucket": "stockcalc-feddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084557928478:android:220ce08f4709e57d38a60f",
+        "android_client_info": {
+          "package_name": "com.iliun.stockcalccomp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084557928478-krt00jr1d75gou35j0okl62e6njilcd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzBj1x7uX_Tdbk-SfGMHanKLTsIfpk1hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084557928478-krt00jr1d75gou35j0okl62e6njilcd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
